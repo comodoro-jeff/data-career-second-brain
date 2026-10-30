@@ -56,7 +56,3 @@ data-career-second-brain/
 - Não assumir que títulos profissionais, competências ou trajetórias são universais.
 - Registrar limitações de cobertura, escopo, data e metodologia das fontes.
 - Preservar a rastreabilidade entre afirmações, fontes e análises.
-
-## Status
-
-**Versão inicial da estrutura documental.** Os arquivos constituem a base de organização do projeto e podem ser refinados durante a publicação no GitHub.
