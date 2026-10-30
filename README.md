@@ -103,15 +103,29 @@ data-career-second-brain/
 │   └── visao-integrada.md
 │
 ├── materials/
-│   └── eixos/
-│       ├── eixo-01-profissoes.md
-│       ├── eixo-02-fundamentos.md
-│       ├── eixo-03-competencias-ferramentas.md
-│       ├── eixo-04-arquitetura.md
-│       ├── eixo-05-mercado.md
-│       ├── eixo-06-formacao.md
-│       ├── eixo-07-progressao.md
-│       └── eixo-08-portfolio.md
+│   ├── diagrams/
+|   |   ├── arquitetura-dados-ia.png
+│   |   ├── mapa-formacao-carreira.png
+│   |   └── mapa-geral-ecossistema.png
+|   |
+│   ├── eixos/
+│   |   ├── eixo-01-profissoes.md
+│   |   ├── eixo-02-fundamentos.md
+│   |   ├── eixo-03-competencias-ferramentas.md
+│   |   ├── eixo-04-arquitetura.md
+│   |   ├── eixo-05-mercado.md
+│   |   ├── eixo-06-formacao.md
+│   |   ├── eixo-07-progressao.md
+│   |   └── eixo-08-portfolio.md
+|   |
+|   ├── images/
+|   |   ├── ecossistema-tecnologico.png
+│   |   ├── infografico-mercado.png
+│   |   └── infografico-profissoes.png
+|   |
+|   └── presentations/
+|       ├── apresentacao-geral.pptx
+│       └── apresentacao-oito-eixos-pptx
 │
 └── sources/
     └── catalogo-de-fontes.md
