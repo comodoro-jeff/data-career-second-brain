@@ -96,8 +96,6 @@ Os arquivos originais exportados do NotebookLM são preservados separadamente do
 ```text
 data-career-second-brain/
 │
-├── README.md
-│
 ├── docs/
 │   ├── metodologia.md
 │   └── visao-integrada.md
@@ -127,8 +125,10 @@ data-career-second-brain/
 |       ├── apresentacao-geral.pptx
 │       └── apresentacao-oito-eixos-pptx
 │
-└── sources/
-    └── catalogo-de-fontes.md
+├── sources/
+|   └── catalogo-de-fontes.md
+|
+└──  README.md
 ```
 
 ## Como navegar
