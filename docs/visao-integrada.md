@@ -9,7 +9,6 @@ A formação no ecossistema combina três dimensões: matemática e estatística
 - **Engenharia de ML/IA:** integra modelos a sistemas de software, automatiza fluxos de treinamento e implantação e acompanha seu funcionamento.
 - **Análise de Dados/BI:** transforma dados em análises, indicadores, visualizações e apoio à decisão.
 
-As fronteiras entre funções variam entre organizações; os títulos não são universais.
 
 ## 2. Competências compartilhadas e específicas
 
@@ -22,11 +21,7 @@ As especializações aprofundam conjuntos distintos:
 - BI/Análise: indicadores, visualização, dashboards e comunicação de resultados.
 - Governança e ética: riscos, privacidade, qualidade, responsabilização e governança de dados e IA.
 
-A alfabetização em IA aparece nas fontes como competência transversal emergente; isso não significa que todas as funções exijam o mesmo nível de especialização em IA.
-
 ## 3. Competências e tecnologias
-
-Tecnologias são meios para aplicar competências, e não substitutos dos fundamentos.
 
 | Área | Exemplos de tecnologias documentadas |
 |---|---|
