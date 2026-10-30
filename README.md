@@ -130,6 +130,13 @@ data-career-second-brain/
 |
 └──  README.md
 ```
+### Mapa geral do ecossistema
+
+![Mapa mental do ecossistema](materials/diagrams/mapa-geral-ecossistema.png)
+
+### Arquitetura de Dados e IA
+
+![Arquitetura de Dados e IA](materials/diagrams/arquitetura-dados-ia.png)
 
 ## Como navegar
 
