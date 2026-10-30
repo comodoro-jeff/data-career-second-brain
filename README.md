@@ -131,9 +131,9 @@ data-career-second-brain/
 └──  README.md
 ```
 
-### Ecossistema de Dados e IA
+### Ecossistema de Dados, ML e IA
 
-![Ecossistema de Dados e IA](materials/images/ecossistema-tecnologico.png)
+![Ecossistema de Dados, ML e IA](materials/images/ecossistema-tecnologico.png)
 
 ## Como navegar
 
