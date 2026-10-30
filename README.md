@@ -75,7 +75,7 @@ As respostas foram analisadas considerando seu conteúdo, sua fundamentação do
 
 Acesse o notebook utilizado na investigação:
 
-**[Acessar notebook no NotebookLM](INSERIR_LINK_COMPARTILHADO)**
+**[Acessar notebook no NotebookLM](https://notebook.google.com/notebook/e2eee8a9-435c-485c-a9fe-0d597d5b79ec)**
 
 ## Materiais produzidos
 
