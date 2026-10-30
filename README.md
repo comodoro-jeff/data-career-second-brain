@@ -17,8 +17,6 @@ A pesquisa foi organizada em oito eixos:
 7. Progressão e trajetória profissional
 8. Projetos, portfólio e empregabilidade
 
-Os oito eixos foram investigados e concluídos. O projeto entra agora na etapa de documentação e organização dos resultados.
-
 ## Estrutura do repositório
 
 ```text
