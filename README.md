@@ -102,9 +102,6 @@ data-career-second-brain/
 │   ├── metodologia.md
 │   └── visao-integrada.md
 │
-├── sources/
-│   └── catalogo-de-fontes.md
-│
 ├── materials/
 │   └── eixos/
 │       ├── eixo-01-profissoes.md
@@ -116,9 +113,8 @@ data-career-second-brain/
 │       ├── eixo-07-progressao.md
 │       └── eixo-08-portfolio.md
 │
-└── evidence/
-    ├── mapas-mentais/
-    └── apresentacoes/
+└── sources/
+    └── catalogo-de-fontes.md
 ```
 
 ## Como navegar
