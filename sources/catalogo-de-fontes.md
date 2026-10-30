@@ -1,7 +1,5 @@
 # Catálogo de fontes aprovadas
 
-> Catálogo inicial das fontes aprovadas durante a investigação. A inclusão indica pertinência para o projeto, não endosso irrestrito de todas as afirmações da fonte.
-
 ## Eixo 01 — Profissões e especializações
 
 - IBM — [How to structure a modern data team](https://www.ibm.com/think/topics/how-to-structure-a-modern-data-team)
@@ -23,8 +21,6 @@
 - NIST — AI Risk Management Framework.
 - IFES — Inteligência Artificial para Ciência de Dados.
 - USP/ICMC — materiais de Machine Learning e Ciência de Dados para IA.
-
-> Registrar URLs e edições exatas dos materiais acadêmicos no momento da revisão final do catálogo, caso sejam necessários para reprodução integral da pesquisa.
 
 ## Eixo 03 — Competências técnicas e ferramentas
 
@@ -76,10 +72,3 @@
 - MIT Career Advising & Professional Development — *Highlighting Your Data Science Project*.
 - Google for Developers — [ML Development Phases](https://developers.google.com/machine-learning/managing-ml-projects/phases?hl=pt-BR).
 - GitHub Docs — [About your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/about-your-profile).
-
-## Observações de curadoria
-
-- Fontes de fornecedores podem apresentar visão específica de seus próprios produtos.
-- Classificações ocupacionais não acompanham necessariamente a velocidade de surgimento de novos títulos.
-- Relatórios de mercado têm recortes, períodos, amostras e unidades de análise diferentes.
-- Documentação técnica é adequada para explicar ferramentas, mas não prova sua prevalência no mercado.
