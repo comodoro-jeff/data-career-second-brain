@@ -1,7 +1,5 @@
 # Data Career Second Brain
 
-> Repositório de pesquisa e documentação sobre o ecossistema profissional de Dados, Machine Learning (ML) e Inteligência Artificial (IA).
-
 ## Objetivo
 
 Investigar e compreender o ecossistema profissional de Dados, Machine Learning e Inteligência Artificial, explorando suas principais profissões e especializações, competências técnicas e fundamentos teóricos, ferramentas e tecnologias, estrutura do mercado de trabalho brasileiro e internacional, possibilidades de formação e progressão profissional, com o propósito de construir uma visão abrangente e fundamentada da área e orientar o desenvolvimento de uma trajetória profissional.
