@@ -88,7 +88,6 @@ Entre os materiais preservados estão:
 - Apresentações e slides.
 - Matrizes comparativas.
 - Materiais de integração dos oito eixos.
-- Capturas de tela das interações com citações.
 
 Os arquivos originais exportados do NotebookLM são preservados separadamente dos documentos consolidados e organizados para consulta.
 
@@ -107,21 +106,17 @@ data-career-second-brain/
 │   └── catalogo-de-fontes.md
 │
 ├── materials/
-│   ├── eixos/
-│   └── notebooklm/
-│       ├── eixo-01/
-│       ├── eixo-02/
-│       ├── eixo-03/
-│       ├── eixo-04/
-│       ├── eixo-05/
-│       ├── eixo-06/
-│       ├── eixo-07/
-│       ├── eixo-08/
-│       └── integracao/
+│   └── eixos/
+│       ├── eixo-01-profissoes.md
+│       ├── eixo-02-fundamentos.md
+│       ├── eixo-03-competencias-ferramentas.md
+│       ├── eixo-04-arquitetura.md
+│       ├── eixo-05-mercado.md
+│       ├── eixo-06-formacao.md
+│       ├── eixo-07-progressao.md
+│       └── eixo-08-portfolio.md
 │
 └── evidence/
-    ├── registro-de-analises.md
-    ├── screenshots/
     ├── mapas-mentais/
     └── apresentacoes/
 ```
@@ -132,4 +127,3 @@ data-career-second-brain/
 - Consulte [materials/eixos/](materials/eixos/) para os resultados organizados por eixo.
 - Consulte [sources/catalogo-de-fontes.md](sources/catalogo-de-fontes.md) para identificar a base documental.
 - Consulte [docs/metodologia.md](docs/metodologia.md) para entender os critérios de seleção e análise das fontes.
-- Consulte [evidence/](evidence/) para verificar as interações com o NotebookLM e as evidências que fundamentam a pesquisa.
