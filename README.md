@@ -71,8 +71,6 @@ As perguntas foram organizadas em oito eixos de investigação e em uma etapa de
 
 As respostas foram analisadas considerando seu conteúdo, sua fundamentação documental e as citações apresentadas pelo NotebookLM.
 
-As evidências das interações, incluindo perguntas, respostas e referências às fontes utilizadas, estão organizadas no diretório `evidence/`.
-
 ### NotebookLM compartilhado
 
 Acesse o notebook utilizado na investigação:
