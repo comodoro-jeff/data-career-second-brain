@@ -130,11 +130,6 @@ data-career-second-brain/
 |
 └──  README.md
 ```
-
-### Arquitetura de Dados e IA
-
-![Infográfico sobre as Profissões](materials/images/infografico-profissoes.png)
-
 ## Como navegar
 
 - Comece por [docs/visao-integrada.md](docs/visao-integrada.md) para compreender o ecossistema como um todo.
