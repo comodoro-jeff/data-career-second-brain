@@ -130,6 +130,11 @@ data-career-second-brain/
 |
 └──  README.md
 ```
+
+### Ecossistema de Dados e IA
+
+![Ecossistema de Dados e IA](materials/images/ecossistema-tecnologico.png)
+
 ## Como navegar
 
 - Comece por [docs/visao-integrada.md](docs/visao-integrada.md) para compreender o ecossistema como um todo.
