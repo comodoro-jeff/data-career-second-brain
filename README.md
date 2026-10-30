@@ -21,22 +21,38 @@ A pesquisa foi organizada em oito eixos:
 
 ```text
 data-career-second-brain/
+│
 ├── README.md
+│
 ├── docs/
 │   ├── metodologia.md
 │   └── visao-integrada.md
+│
 ├── sources/
 │   └── catalogo-de-fontes.md
+│
 ├── materials/
-│   └── eixos/
-│       ├── eixo-01-profissoes.md
-│       ├── eixo-02-fundamentos.md
-│       ├── eixo-03-competencias-ferramentas.md
-│       ├── eixo-04-arquitetura.md
-│       ├── eixo-05-mercado.md
-│       ├── eixo-06-formacao.md
-│       ├── eixo-07-progressao.md
-│       └── eixo-08-portfolio.md
+│   ├── eixos/
+│   │   ├── eixo-01-profissoes.md
+│   │   ├── eixo-02-fundamentos.md
+│   │   ├── eixo-03-competencias-ferramentas.md
+│   │   ├── eixo-04-arquitetura.md
+│   │   ├── eixo-05-mercado.md
+│   │   ├── eixo-06-formacao.md
+│   │   ├── eixo-07-progressao.md
+│   │   └── eixo-08-portfolio.md
+│   │
+│   └── notebooklm/
+│       ├── eixo-01/
+│       ├── eixo-02/
+│       ├── eixo-03/
+│       ├── eixo-04/
+│       ├── eixo-05/
+│       ├── eixo-06/
+│       ├── eixo-07/
+│       ├── eixo-08/
+│       └── integracao/
+│
 └── evidence/
     └── registro-de-analises.md
 ```
