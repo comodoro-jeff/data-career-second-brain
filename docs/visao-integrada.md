@@ -46,8 +46,6 @@ Um fluxo de dados e ML pode envolver ingestão, armazenamento, processamento, pr
 - Engenharia de ML integra modelos a sistemas, automatiza etapas e acompanha operação e desempenho.
 - Áreas de produto, negócio, segurança e governança participam da definição dos problemas e das condições de uso.
 
-Nem todo projeto utiliza todas as etapas ou ferramentas; arquiteturas variam conforme requisitos, escala, latência, custo e contexto.
-
 ## 5. Mercado de trabalho
 
 Os relatórios analisados indicam a relevância econômica do macrossetor de TIC no Brasil e sinais de expansão de equipes e de interesse por competências relacionadas a IA, nuvem e segurança. Entretanto, os dados disponíveis não permitem quantificar com precisão todos os cargos específicos de Dados e IA no país.
